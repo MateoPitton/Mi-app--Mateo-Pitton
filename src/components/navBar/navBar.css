@@ -1,0 +1,12 @@
+.nav-main{
+    color: rgb(218, 231, 95);
+    font-size: 25px;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    width: 60px;
+}
